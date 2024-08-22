@@ -1,0 +1,16 @@
+.about-header {
+  background: linear-gradient(
+      to right,
+
+      rgba(0, 0, 0, 0.4) 0%,
+      transparent 100%
+    ),
+    url("/img/about/about_header.png");
+  background-position: 50% 50%;
+}
+
+@media (min-width: 1400px) {
+  .about-header {
+    background-position: 100% 0%;
+  }
+}

@@ -1,0 +1,19 @@
+.news-header {
+  background: linear-gradient(
+      to right,
+
+      rgba(0, 0, 0, 0.4) 0%,
+      transparent 100%
+    ),
+    url("/img/articles/news-header.png");
+}
+
+.article-header {
+  background: linear-gradient(
+      to right,
+
+      rgba(0, 0, 0, 0.4) 0%,
+      transparent 100%
+    ),
+    url("/img/articles/article-header.png");
+}

@@ -1,0 +1,106 @@
+{
+  "services": [
+    {
+      "title": "tax",
+      "description_es": "Nuestro equipo de expertos en tributación nacional e internacional acompaña a nuestros clientes para asegurar el éxito de sus empresas, proyectos e inversiones",
+      "list_es": [
+        "Consultoría, estructuración y planificación tributaria nacional e internacional.",
+        "Consultoría tributaria en materia de aplicación de convenios para evitar la doble imposición.",
+        "Optimización de la carga tributaria global para residentes y no residentes.",
+        "Preparación y revisión de declaraciones juradas tributarias y análisis de retenciones de impuestos.",
+        "Asesoramiento e implementación de beneficios tributarios para la promoción de inversiones (COMAP).",
+        "Due diligence fiscal.",
+        "Asistencia ante inspecciones de la autoridad fiscal uruguaya.",
+        "Obtencion de certificados de residencia fiscal para empresas y personas físicas."
+      ],
+      "description_en": "Our team of experts in national and international taxation accompanies our clients to ensure the success of their companies, projects, and investments",
+      "list_en": [
+        "Consultancy, structuring, and planning of national and international taxation.",
+        "Tax consultancy regarding the application of agreements to avoid double taxation.",
+        "Optimization of the overall tax burden for residents and non-residents.",
+        "Preparation and review of tax declarations and analysis of tax withholdings.",
+        "Advisory and implementation of tax benefits for investment promotion (COMAP).",
+        "Tax due diligence.",
+        "Assistance during inspections by the Uruguayan tax authority.",
+        "Obtaining certificates of tax residence for companies and individuals."
+      ]
+    },
+    {
+      "title": "accounting",
+      "description_es": "Nuestro equipo de expertos contables brindan servicios únicos en materia contable, financiera, económica y administrativa:",
+      "list_es": [
+        "Registración contable y confección de Estados Financieros.",
+        "Elaboración de informes como expertos independientes sobre temas de contabilidad.",
+        "Elaboración de presupuestos periódicos, diseño e implementación de otros informes y procesos administrativos contables a medida de cada cliente para una correcta toma de decisiones.",
+        "Confección de libros legales para empresas y su registración ante los organismos públicos locales correspondientes.",
+        "Valuaciones de empresas como expertos independientes y asesoramiento en fusiones, ventas y adquisiciones corporativas.",
+        "Apoyo a auditores externos.",
+        "Auditoría interna, servicios de control interno y gestión de riesgos contables y financieros.",
+        "Liquidación de remuneraciones recurrentes y específicas, emisión de recibos, presentación de nóminas y cumplimiento de contribuciones a la seguridad social y demás obligaciones fiscales sobre partidas salariales.",
+        "Nominalización de remuneraciones, proyección y planificación en materia de cargas sociales.",
+        "Due diligence laboral.",
+        "Control de tercerizaciones.",
+        "Asistencia en inspecciones por parte de los organismos de seguridad social y control laboral de Uruguay."
+      ],
+      "description_en": "Our team of accounting experts provides unique services in accounting, financial, economic, and administrative matters:",
+      "list_en": [
+        "Registration of accounting and preparation of Financial Statements.",
+        "Preparation of reports as independent experts on accounting issues.",
+        "Development of periodic budgets, design and implementation of customized reports and accounting administrative processes for each client to facilitate informed decision-making.",
+        "Preparation of legal books for companies and their registration with the corresponding local public authorities.",
+        "Valuation of companies as independent experts and advisory services in mergers, sales, and corporate acquisitions.",
+        "Support for external auditors.",
+        "Internal audit, internal control services, and management of accounting and financial risks.",
+        "Calculation of recurring and specific compensations, issuance of receipts, payroll submission, and compliance with social security contributions and other tax obligations on salary items.",
+        "Nominalization of compensations, projection, and planning in terms of social security charges.",
+        "Labor due diligence.",
+        "Outsourcing control.",
+        "Assistance in inspections by social security and labor control authorities in Uruguay."
+      ]
+    },
+    {
+      "title": "legal",
+      "description_es": "Brindamos servicios notariales integrales entre los que destacamos:",
+      "list_es": [
+        "Consultoría legal comercial, laboral y societaria.",
+        "Planificación patrimonial y sucesoria para familias de alto patrimonio.",
+        "Estructuración y constitución de sociedades locales y extranjeras",
+        "Transformación de tipos societarios.",
+        "Re-domiciliación de compañías desde o hacia Uruguay.",
+        "Obtención de residencia legal en Uruguay para personas físicas extranjeras.",
+        "Asesoramiento legal corporativo en la internacionalización de negocios y empresas.",
+        "Servicios fiducidiarios."
+      ],
+      "description_en": "We provide comprehensive notarial services, among which we highlight:",
+      "list_en": [
+        "Legal consultancy in commercial, labor, and corporate matters.",
+        "Wealth and succession planning for high-net-worth families.",
+        "Structuring and establishment of local and foreign companies.",
+        "Transformation of corporate types.",
+        "Re-domiciliation of companies to or from Uruguay.",
+        "Obtaining legal residence in Uruguay for foreign individuals.",
+        "Corporate legal advice in the internationalization of businesses and companies.",
+        "Fiduciary services."
+      ]
+    },
+    {
+      "title": "notary",
+      "description_es": "Brindamos servicios notariales integrales entre los que destacamos:",
+      "list_es": [
+        "Adquisición, enajenación de bienes muebles e inmuebles tanto residenciales como rurales (compraventas, leasings y otros), y asistencia en contratos civiles y comerciales.",
+        "Control y otorgamiento de garantías (prendas e hipotecas).",
+        "Asesoramiento en proyectos inmobiliarios y transacciones, brindando la solución más eficiente y segura.",
+        "Confección y emisión de certificados especiales, testimonios, mandatos y poderes.",
+        "Legalizaciones y apostillados."
+      ],
+      "description_en": "We offer comprehensive notarial services, among which we highlight:",
+      "list_en": [
+        "Acquisition and sale of movable and immovable properties, both residential and rural (buy-sell agreements, leases, and others), and assistance in civil and commercial contracts.",
+        "Control and granting of guarantees (pledges and mortgages).",
+        "Advice on real estate projects and transactions, providing the most efficient and secure solutions.",
+        "Preparation and issuance of special certificates, testimonies, mandates, and powers of attorney.",
+        "Legalizations and apostilles."
+      ]
+    }
+  ]
+}

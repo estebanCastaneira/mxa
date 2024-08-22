@@ -1,0 +1,14 @@
+.team-header {
+  background: linear-gradient(
+      to right,
+
+      rgba(0, 0, 0, 0.4) 0%,
+      transparent 100%
+    ),
+    url("/img/team/our_team.png");
+  background-position: 30% 70%;
+}
+.teams-grid {
+  row-gap: 1rem;
+  column-gap: 5rem;
+}

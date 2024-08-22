@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --main: #45abb1;
+  --secondary: #078f96;
+  --third: #83c7cb;
+  --black: #231f20;
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+.dashboard {
+  margin: 20px 20px 20px 220px;
+}

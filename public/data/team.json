@@ -1,0 +1,114 @@
+{
+  "accountants": [
+    {
+      "id": 1,
+      "firstname": "Federico",
+      "lastname": "Otegui",
+      "email": "f.otegui@mxa.com.uy",
+      "position_es": "Socio",
+      "position_en": "Partner",
+      "image": "img/team/image_1696963156492.jpg",
+      "description_es": "Et aut eligendi id magnam voluptates omnis earum et vel.",
+      "description_en": "Consectetur nesciunt et quia ut rerum sit necessitatibus est provident.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    },
+    {
+      "id": 2,
+      "firstname": "Carolina",
+      "lastname": "Techera",
+      "email": "c.techera@mxa.com.uy",
+      "position_es": "Socia",
+      "position_en": "Partner",
+      "image": "img/team/image_1697728685713.jpg",
+      "description_es": "Qui tempora excepturi quis magnam eligendi voluptatibus ipsa dolorem iusto.",
+      "description_en": "Voluptatem ut ut eius quo iste et assumenda omnis ut.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    },
+    {
+      "id": 3,
+      "firstname": "Nicolás",
+      "lastname": "May",
+      "email": "n.may@mxa.com.uy",
+      "position_es": "Socio",
+      "position_en": "Partner",
+      "image": "img/team/image_1697763923789.jpg",
+      "description_es": "Sed qui voluptas cum nisi id aut consectetur rem et.",
+      "description_en": "Debitis qui delectus est ut quia nemo sed ipsam sint.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    },
+    {
+      "id": 4,
+      "firstname": "Tania",
+      "lastname": "Cóccaro",
+      "email": "t.coccaro@mxa.com.uy",
+      "position_es": "Contadora",
+      "position_en": "Accountant",
+      "image": "img/team/image_1697728861093.jpg",
+      "description_es": "Optio nihil omnis et rerum perferendis unde dicta suscipit repellendus.",
+      "description_en": "Possimus vitae culpa vero aut sunt pariatur harum sequi aut.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    },
+    {
+      "id": 5,
+      "firstname": "Juan Pablo",
+      "lastname": "Rebellato",
+      "email": "p.rebellato@mxa.com.uy",
+      "position_es": "Contador",
+      "position_en": "Accountant",
+      "image": "img/team/image_1697843148912.png",
+      "description_es": "Dolores sunt voluptatem rem ipsa dolor distinctio ipsam non rerum.",
+      "description_en": "Laudantium corrupti sapiente sapiente laborum accusamus expedita quia maxime iste.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    },
+    {
+      "id": 6,
+      "firstname": "Guido",
+      "lastname": "Bernadet",
+      "email": "g.bernadet@mxa.com.uy",
+      "position_es": "Contador",
+      "position_en": "Accountant",
+      "image": "img/team/image_1697843285470.png",
+      "description_es": "Architecto labore quas consequatur cupiditate dolor error et dolores ad.",
+      "description_en": "Quidem esse excepturi sit quidem ratione exercitationem rerum nobis tempora.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    },
+    {
+      "id": 7,
+      "firstname": "Mauro",
+      "lastname": "Imbert",
+      "email": "m.imbert@mxa.com.uy",
+      "position_es": "Contador",
+      "position_en": "Accountant",
+      "image": "img/team/image_1698172674660.png",
+      "description_es": "Lorem ipsum dolor et",
+      "description_en": "Lorem ipsum dolor et",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    }
+  ],
+  "administratives": [
+    {
+      "id": 8,
+      "firstname": "Andrea",
+      "lastname": "Magnone",
+      "email": "a.magnone@mxa.com.uy",
+      "position_es": "Apoyo Administrativo",
+      "position_en": "Administrative Assistance",
+      "image": "img/team/image_1697728790454.jpg",
+      "description_es": "Voluptatibus dolorem error consequuntur debitis ut esse iure deleniti officia.",
+      "description_en": "In molestiae quas perspiciatis hic quam maiores consequuntur quidem ducimus.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    },
+    {
+      "id": 9,
+      "firstname": "Ana Laura",
+      "lastname": "Villalba",
+      "email": "a.villalba@mxa.com.uy",
+      "position_es": "Apoyo Administrativo",
+      "position_en": "Administrative Assistance",
+      "image": "img/team/image_1698173164637.png",
+      "description_es": "Qui tempora excepturi quis magnam eligendi voluptatibus ipsa dolorem iusto.",
+      "description_en": "Voluptatem ut ut eius quo iste et assumenda omnis ut.",
+      "linkedin": "https://www.linkedin.com/company/mxa-capital-tax-investment-boutique/about/"
+    }
+  ]
+}

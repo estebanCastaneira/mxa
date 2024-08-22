@@ -1,0 +1,38 @@
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+
+.hover-underline-animation:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: -10px;
+  left: 0;
+  background-color: var(--secondary);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after,
+.footer-hover-animation:hover:after,
+.hover-underline-animation:active:after,
+#mxa-nav a.active:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+#mxa-nav a.active {
+  color: var(--secondary);
+}
+
+//** MOBILE NAVBAR **//
+#mobile-nav a.active {
+  color: var(--black);
+}
+#mobile-nav .hover-underline-animation::after {
+  background-color: var(--black);
+}

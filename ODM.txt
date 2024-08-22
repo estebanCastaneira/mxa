@@ -1,0 +1,12 @@
+
+Resolver el scroll to top desde la navbar y en Gral
+se me ocurre un useEffect() con scrolltotop only when the component is ammount
+
+
+
+
+OPORTUNIDADES DE MEJORA (FINAL DE OBRA)
+
+Vichar bien el tema del content de los articles (funciones textFromDB textToDB)
+optimizar imagenes y cargas de (pasar a webp, lazy loding, etc)
+Crear un store...así cuando se recarga no cae <-- done

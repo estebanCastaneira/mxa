@@ -1,0 +1,52 @@
+.header {
+  height: 382px;
+  background-size: cover;
+  background-repeat: no-repeat no-repeat;
+}
+@media (min-width: 768px) {
+  .header {
+    height: 690px;
+  }
+}
+
+.break-words span {
+  display: block;
+  position: relative;
+}
+.break-words span:first-of-type {
+  top: 10px;
+}
+@media (min-width: 768px) {
+  .break-words span:first-of-type {
+    top: 20px;
+  }
+}
+
+.deco-line {
+  background: var(--secondary);
+  height: 3px;
+  transition: background-color 0.3s ease;
+}
+
+.deco-white-line {
+  background: white;
+  height: 6px;
+  border-radius: 25px;
+}
+.deco-white-thin {
+  background: white;
+  height: 3px;
+}
+.deco-black-line {
+  background: black;
+  height: 3px;
+}
+.services-box:hover .deco-black-line {
+  background-color: var(--secondary);
+}
+.team-div:hover .deco-black-line {
+  background-color: var(--secondary);
+}
+.team-div:hover p {
+  color: var(--secondary);
+}
